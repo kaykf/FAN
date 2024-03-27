@@ -6,3 +6,4 @@ terceiro_item = minha_lista[2]
 print(primeira_item)
 print(terceiro_item)
 
+minha_lista.append(6)
