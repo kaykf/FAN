@@ -9,3 +9,6 @@ receita.update(novo_dado)
 
 print(receita)
 print(novo_dado)
+
+receita.update({'mai': 600})
+print(receita)
